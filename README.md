@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 
 🔭 I’m currently a third-year master student at Xi'an Jiaotong University, and an intern at Tencent's Hunyuan team.
 
-![Xiaodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hui-design&show_icons=true&theme=merko)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hui-design&show_icons=true&theme=merko)
 
