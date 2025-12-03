@@ -12,4 +12,8 @@ Here are some ideas to get you started:
 🔭 I’m currently a third-year master student at Xi'an Jiaotong University, and an intern at Tencent's Hunyuan team.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hui-design&show_icons=true&theme=merko)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hui-design&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Hui-design">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername">
+</picture>
